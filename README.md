@@ -31,6 +31,9 @@ Faculty of Information Technology
 Power BI & Data Analytics Project
 
 ---
+##  Live Dashboard
+View the interactive Power BI report (view-only):
+https://app.powerbi.com/links/9fawOdBlq-?ctid=97e5760c-fa12-4aae-b4e4-31b43f04e79d&pbi_source=linkShare&bookmarkGuid=12508473-4727-4663-aacc-2c7c199fa112
 
 ##  License
 
